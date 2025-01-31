@@ -1,1 +1,1 @@
-## Trimester 1 - Certificate: Introduction to Open Source
+## IBM Certificates - Trimester 1 - France
