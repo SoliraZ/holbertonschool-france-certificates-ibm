@@ -73,3 +73,54 @@ What you will learn in this mini-course:
 GitHub repository: `holbertonschool-france-certificates-ibm`  
 Directory: `certificates-trimester-2`  
 File: `certificate-sqli-guardium`
+
+---
+
+### Trimester 3 - Certificate: Cyber Security 🛡️
+**When Can You Start?**  
+You can take this course after completing the cybersecurity projects on the intranet.
+
+**Prerequisites and Requirements**  
+- Basic understanding of cybersecurity concepts
+- Knowledge of networking fundamentals
+- Familiarity with Linux command line
+
+**Certificate and Learning**  
+The course to complete for the certificate is **Cyber Security**.  
+In this course, you will learn:
+- Fundamentals of cybersecurity 🔒
+- Network security principles 🌐
+- Security best practices ✅
+- Threat detection and prevention 🕵️‍♂️
+- Security tools and techniques 🛠️
+
+**Repo**  
+GitHub repository: `holbertonschool-france-certificates-ibm`  
+Directory: `certificates-trimester-3`  
+File: `certificate-cyber-1`
+
+---
+
+### Trimester 3 - Certificate: Cloud Computing ☁️
+**When Can You Start?**  
+You can take this course after completing the cloud computing projects on the intranet.
+
+**Prerequisites and Requirements**  
+- Basic understanding of cloud computing concepts
+- Familiarity with virtualization
+- Knowledge of networking fundamentals
+
+**Certificate and Learning**  
+The course to complete for the certificate is **Cloud Computing**.  
+In this course, you will learn:
+- Cloud computing fundamentals ☁️
+- Cloud service models (IaaS, PaaS, SaaS) 🏗️
+- Cloud deployment models 🌍
+- Cloud security and compliance 🔒
+- Cloud architecture and design 🏛️
+- Cloud services and tools 🛠️
+
+**Repo**  
+GitHub repository: `holbertonschool-france-certificates-ibm`  
+Directory: `certificates-trimester-3`  
+File: `certificate-cloud`
